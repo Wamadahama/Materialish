@@ -7,7 +7,7 @@ I have taken my 'material' like CSS styles and coalesced them into one file.
 Add the following line to your ```<head>```
 
 ```
-    <link rel="stylesheet" href="css/main.css" media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" href="css/main.css" media="screen" title="no title" charset="utf-8">
 ```
 ## Documentation
 Will write documentation later
