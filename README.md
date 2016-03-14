@@ -13,3 +13,4 @@ Add the following line to your ```<head>```
 Will write documentation later
 
 ## Other notes
+Samples can be found in the ```samples/``` directory
