@@ -1,5 +1,6 @@
 # Materialish
-->![SLiMG Image](https://i.sli.mg/n5CnGT.png)<-
+![SLiMG Image](https://i.sli.mg/n5CnGT.png)
+
 Material like CSS styles. This is not exhaustive to [Google's material design guidelines ](https://material.google.com/) nor is a complete CSS framework. This is just a set of style
 to make up some material components that I commonly use.
 ## About
